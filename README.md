@@ -7,7 +7,15 @@ Currently focusing on Spring Boot, JPA, Redis, and RESTful API architecture with
 
 ### 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](#)
+[![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)](#)
+[![QueryDSL](https://img.shields.io/badge/QueryDSL-009688?style=flat&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
+
 ---
 
 ### 🎯 Side Project
