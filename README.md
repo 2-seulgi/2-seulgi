@@ -2,7 +2,10 @@
 
 저는 공공 분야 SI/SM 프로젝트에서 4년간 경험을 쌓은 백엔드 개발자입니다.  
 Spring Boot, JPA, Redis를 활용해 **확장 가능하고 안정적인 백엔드 시스템**을 구축하는 데 집중하고 있습니다.  
-실무와 사이드 프로젝트에서 **SQL 성능 최적화, 대용량 파일 처리, 실시간 서비스의 동시성 제어**와 같은 과제를 해결한 경험이 있습니다.
+
+실무와 사이드 프로젝트에서 **SQL 성능 최적화, 대용량 파일 처리, 실시간 서비스의 동시성 제어**와 같은 문제를 해결해왔습니다.  
+또한, 단순히 개발에 그치지 않고 **문제 해결 과정을 회고하고 기록하는 습관**을 꾸준히 이어가고 있습니다.  
+이 과정을 통해 더 깊이 이해하고, 같은 문제를 반복하지 않도록 제 성장의 자산으로 삼고 있습니다.  
 
 ---
 
@@ -42,6 +45,17 @@ Spring Boot, JPA, Redis를 활용해 **확장 가능하고 안정적인 백엔�
 
 ---
 
+### ✍️ Learning & Retrospective
+
+저는 “**기록이 곧 성장**”이라고 믿습니다.  
+새로운 기술을 학습하거나 문제를 해결할 때마다 **회고와 기록**을 통해 배운 점을 정리합니다.  
+- 📖 [Notion – 회고 & 기술 기록](https://www.notion.so/78eb27f82a6b4cb19667f37c98389ef9?v=1f315730d3ba807d976a000cdcbb03e6&source=copy_link)  
+- ✍️ [Velog – 학습 블로그](https://velog.io/@2-seulgi/posts)  
+
+이 과정을 통해 단순한 기능 구현을 넘어, **왜 그렇게 동작하는지**, **더 나은 방법은 없는지**를 고민하며 성장하고 있습니다.  
+
+---
+
 ### 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=2-seulgi&show_icons=true&theme=gotham" />  
@@ -54,4 +68,4 @@ Spring Boot, JPA, Redis를 활용해 **확장 가능하고 안정적인 백엔�
 📧 Email: cooey12@gmail.com  
 🔗 GitHub: [@2-seulgi](https://github.com/2-seulgi)  
 🔗 Notion 회고: [회고 & 기술 기록 보기](https://www.notion.so/78eb27f82a6b4cb19667f37c98389ef9?v=1f315730d3ba807d976a000cdcbb03e6&source=copy_link)  
-🔗 blog: [벨로그](https://velog.io/@2-seulgi/posts)
+🔗 blog: [Velog](https://velog.io/@2-seulgi/posts)
